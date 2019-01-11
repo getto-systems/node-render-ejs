@@ -1,6 +1,6 @@
 {
   "name": "render-ejs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "render ejs template",
   "main": "index.js",
   "bin": {
