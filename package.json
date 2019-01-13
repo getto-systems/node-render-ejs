@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getto-systems/render-ejs.git"
+    "url": "git+https://github.com/getto-systems/node-render-ejs.git"
   },
   "author": "shun@getto.systems",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/getto-systems/render-ejs/issues"
+    "url": "https://github.com/getto-systems/node-render-ejs/issues"
   },
-  "homepage": "https://github.com/getto-systems/render-ejs#readme",
+  "homepage": "https://github.com/getto-systems/node-render-ejs#readme",
   "dependencies": {
     "commander": "^2.19.0",
     "ejs": "^2.6.1"
