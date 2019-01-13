@@ -1,4 +1,4 @@
-# render-ejs
+# node-render-ejs
 
 Node.js utility: render ejs template
 
@@ -69,6 +69,6 @@ $ npm install --save-dev render-ejs
 <a id="License"></a>
 ## License
 
-render-ejs is licensed under the [MIT](LICENSE) license.
+node-render-ejs is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2018 shun@getto.systems
